@@ -1,1 +1,11 @@
-CITATION.cff
+cff-version: 1.2.0
+message: "If you use these MATLAB codes, please cite it as below."
+authors:
+- family-names: "Lamberg"
+  given-names: "Joel"
+  orcid: "https://orcid.org/0000-0002-9956-912X"
+title: "MATLAB codes for Curved Boundary Integral Method"
+version: 0.0.1
+
+date-released: 2024-07-02
+url: "https://github.com/Lamberg85/CBIM"
